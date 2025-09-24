@@ -2,9 +2,11 @@
 Stealth Pumpfun Bundler ( Won't be detect any flags and bubble map too )
 
 
-### Jito Explore
 
-https://explorer.jito.wtf/bundle/b4057194ab7ab11072e99d4c662cec8ba67ddd185964331a5b8d2bbc1ada8a20
+## Contact me on Telegram to build your own trading bots
+<a href="https://t.me/cashblaze129" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@Contact_Me-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support" />
+</a>
 
 <img width="1280" height="767" alt="image" src="https://github.com/user-attachments/assets/430e5358-a8d1-45ce-be3c-c160e65bdcb2" />
 
